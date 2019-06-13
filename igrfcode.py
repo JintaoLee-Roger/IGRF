@@ -58,7 +58,6 @@ def V(g, n, m, data):
                     (scp.lpmv(m[j], n[j], np.cos(Theta)))
     
     ans.tofile('data.dat', sep = ' ', format = '%f')
-    return ans
     
 
 def drawpicture(path):
