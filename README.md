@@ -1,6 +1,8 @@
 # IGRF
 计算地球非偶极子场
 
+> 若无法查看公式，请安装 MathJax Plugin for Github 插件
+
 ## CONTENTS
 
 - [数据](#数据)
