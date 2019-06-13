@@ -44,8 +44,10 @@ $$
 ## 结果
 
 将所得结果放置在pngfile目录下，共25张，还有一张gif动图(IGRF.gif)在主目录下.
+
 动图如下
-[gif](./IGRF.gif)
+
+![gif](./IGRF.gif)
 
 ## 代码
 
