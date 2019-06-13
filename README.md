@@ -11,8 +11,12 @@
 ## 数据
 
 数据来自 [International Geomagnetic Reference Field](https://www.ngdc.noaa.gov/IAGA/vmod/igrf.html)
+
 txt格式数据文件[下载](https://www.ngdc.noaa.gov/IAGA/vmod/coeffs/igrf12coeffs.txt)
+
 excel格式数据文件[下载](https://www.ngdc.noaa.gov/IAGA/vmod/coeffs/IGRF12coeffs.xls)
+
+
 
 将txt文件的前四行删掉
 
