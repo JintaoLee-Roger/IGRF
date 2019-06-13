@@ -44,9 +44,11 @@ $$
 ## 结果
 
 将所得结果放置在pngfile目录下，共25张，还有一张gif动图(IGRF.gif)在主目录下.
+动图如下
+[gif](./IGRF.gif)
 
 ## 代码
 
-igrfcode.py
+[igrfcode.py](./igrfcode.py)
 
-constant.py
+[constant.py](./constant.py)
