@@ -14,18 +14,7 @@
 
 ## 环境
 
-python           3.6.4
-
-basemap          1.2.0
-
-imageio          2.2.0
-
-matplotlib       2.1.2
-
-numpy            1.15.4
-
-scipy            1.0.0
-
+[env](env.txt)
 
 ## 数据
 
