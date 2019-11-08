@@ -1,7 +1,7 @@
 # IGRF
 计算地球非偶极子场
 
-> 若无法查看公式，请安装 MathJax Plugin for Github 插件
+> 若无法查看公式，请安装 [MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima) 插件 或者 [TeX All the Things](https://chrome.google.com/webstore/detail/tex-all-the-things/cbimabofgmfdkicghcadidpemeenbffn) 插件
 
 ## CONTENTS
 
