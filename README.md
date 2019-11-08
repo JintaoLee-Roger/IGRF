@@ -35,12 +35,12 @@ $$
 V(r, \theta, \phi, t)=a \sum_{n=1}^{N} \sum_{m=0}^{n}\left(\frac{a}{r}\right)^{n+1}\left[g_{n}^{m}(t) \cos (m \phi)+h_{n}^{m}(t) \sin (m \phi)\right] P_{n}^{m}(\cos \theta)
 $$
 
-我们只计算它的Z分量，公式如下：
+我们只计算它的$z$分量，公式如下：
 $$
 V(r, \theta, \phi, t)=-(n+1) \sum_{n=1}^{N} \sum_{m=0}^{n}\left(\frac{a}{r}\right)^{n+2}\left[g_{n}^{m}(t) \cos (m \phi)+h_{n}^{m}(t) \sin (m \phi)\right] P_{n}^{m}(\cos \theta)
 $$
 
-其中 a 为地球半径，我们只计算地表的，即 $r = a$.
+其中 $a$ 为地球半径，我们只计算地表的，即 $r = a$.
 
 $P_{n}^{m}(\cos \theta)$ 是半归一化的连带勒让德函数，而python中的`scipy.special.lpmv()`函数是完全没有归一化的，我们需要将其归一化，可用以下公式:
 $$
