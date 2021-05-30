@@ -45,11 +45,10 @@ $$
 $P_{n}^{m}(\cos \theta)$ 是半归一化的连带勒让德函数，而python中的`scipy.special.lpmv()`函数是完全没有归一化的，我们需要将其归一化，可用以下公式:
 $$
 \left{
-\begin{array}{c}
+\begin{array}{l}
 P_{n}(x) \qquad \text { for } m=0 \\ 
 s_{n}^{m}(x)=(-1)^{m} \sqrt{\frac{2(n-m) !}{(n+m) !}} P_{n}^{m}(x) \qquad \text { for } m>0
 \end{array}
-\right.
 $$
 
 ## 结果
